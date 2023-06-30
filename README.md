@@ -3,7 +3,7 @@
 1. mpg dataset is loaded from seaborn library <br>
 2. data is visualized to gain some useful information and evaluation of data.<br>
 3. dataset is transformed using tranformers and custom tranformers to refined into suitable data for 
-   feed into ml model . data is scaled , imputed . categorical data is converted into numerical data 
+   feeding into ml model . data is scaled , imputed . categorical data is converted into numerical data 
    using one hot encoding and ordinal encoding . missing values are treated using simpleimputer class
    from sklearn library . <br>
 4. multiple models used to check test accuracy and test error ,for selecting best model and 
